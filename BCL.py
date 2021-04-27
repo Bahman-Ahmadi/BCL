@@ -5,7 +5,7 @@
 #pylint:disable=W0123
 
 		#####Imports#####
-import langlib as pll
+import langlib1 as pll
 from SMS_Bomber import main as SB
 from requests import get
 from datetime import datetime
